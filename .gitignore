@@ -1,0 +1,38 @@
+# OS specific
+*.DS_Store
+Thumbs.db
+*.bak
+*.log
+hs_err_pid*
+replay_pid*
+.bash_history
+.bashrc
+
+# Binaries
+__pycache__/
+bin/
+target/
+build/
+*.pyc
+*.bin
+*.o
+*.so
+*.dylib
+*.lib
+*.a
+*.exe
+*.dll
+*.app/
+*.AppImage
+apis/*/.gradle/
+apis/*/bin/
+apis/*/target/
+apis/*/build/
+
+# IDE specific
+.idea/
+.vscode/
+.idea_modules/
+.project
+.classpath
+.settings/

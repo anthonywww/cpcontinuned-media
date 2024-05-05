@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+
+	</head>
+	<body>
+		<h1>Test Client</h1>
+		<section id="D_F_GameSection">
+			<noscript id="cp_flash_noscript" style="text-align:center">
+				You must enable JavaScript, this allows us to emulate the Adobe Flash through ruffle.rs
+				<!--
+				<a href="https://adobe.com/go/getflashplayer">Club Penguin Continued requires the Adobe Flash Player</a>
+				-->
+			</noscript>
+		
+			<div id="play-captcha-verification" class="to-center no-select">
+				<form action="javascript:void(0);" method="get" target="_self">
+					<div class="title is-4">Are you human?</div>
+					<img id="play-captcha-verification-image" src="/user/captcha" alt="Captcha"
+						style="width:100px;height:30px">
+					<br>
+					<br>
+					<div class="field has-addons to-center">
+						<p class="control is-expanded">
+							<input id="play-captcha-verification-input" class="input" type="text" placeholder="Enter Code"
+								minlength="6" maxlength="6" autocomplete="off" required>
+						</p>
+						<p class="control">
+							<button id="play-captcha-verification-button" class="button is-info" type="submit"><i
+									class="fa fa-check"></i> Yes</button>
+						</p>
+					</div>
+				</form>
+			</div>
+		
+			<object type="application/x-shockwave-flash" id="cp_flash" name="cp_flash" class="cp_flash"
+				data="https://media1.cpcontinued.com/loader.swf?cache=20190505163732&baseURL=/" width="100%" height="100%">
+				<param name="menu" value="false">
+				<param name="quality" value="high">
+				<param name="allowscriptaccess" value="always">
+				<param name="wmode" value="transparent">
+			</object>
+		</section>
+	</body>
+
+	<!-- Scripts -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/ruffle-rs/0.1.0-nightly.2024.5.4/ruffle.min.js" integrity="sha512-W1peZDRvnkx1oWx99hymA3wM0bmhK5O6FaQgSL2d+hnFweX9L00o+ociNXEvw7usDC+DCRBEvzt6QhH8SdnMZQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+</html>

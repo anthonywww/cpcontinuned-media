@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- EN -->
+<startscreen>
+	
+	<backgrounds>
+		<!-- in constant rotation -->
+
+		<background>
+			<url>alpha_testing_0.swf</url>
+			<probability>0</probability>
+		</background>
+
+		<background>
+			<url>alpha_testing_1.swf</url>
+			<probability>0</probability>
+		</background>
+		
+		<background>
+			<url>alpha_testing_2.swf</url>
+			<probability>0</probability>
+		</background>
+
+		<background>
+			<url>promo/LoginCelebrateMore.swf</url>
+			<probability>0</probability>
+		</background>
+		<background>
+			<url>promo/LoginCreateMore.swf</url>
+			<probability>0</probability>
+		</background>
+		<background>
+			<url>promo/LoginExploreMore.swf</url>
+			<probability>0</probability>
+		</background>
+		<background>
+			<url>promo/LoginPlayMore.swf</url>
+			<probability>0</probability>
+		</background>
+
+
+		<background>
+			<url>christmas_party_1.swf</url>
+			<probability>100</probability>
+		</background>
+
+
+
+
+		<!-- /constant rotation -->		
+		
+
+		<!-- external linking content -->		
+				
+		
+		<!-- /external linking content -->
+		
+	</backgrounds>
+	
+	<messages>
+		<message>
+			<title>CHECK OUT WHATS NEW!</title>
+			<icon>whats_new.swf</icon>
+			<content type='url'>https://cpcontinued.com/</content>
+		</message>
+	</messages>
+
+</startscreen>

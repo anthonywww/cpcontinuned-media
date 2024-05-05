@@ -1,0 +1,111 @@
+﻿{
+	
+	"boot": [
+		{
+			"id": "airtower",
+			"title": "Communication"
+		},
+		{
+			"id": "sentry",
+			"title": "Communication"
+		},
+		{
+			"id": "party",
+			"title": "Party Rooms"
+		}
+	],
+	
+	"login": [
+		{
+			"id": "login",
+			"title": "Login Screen"
+		},
+		{
+			"id": "serverdata",
+			"title": "Security Check"
+		},
+		{
+			"id": "captcha",
+			"title": "Security Check"
+		},
+		{
+			"id": "chatenc",
+			"title": "Chat Encryption"
+		},
+		{
+			"id": "birdhouse",
+			"title": "Login Screen"
+		}
+	],
+	
+	"join": [
+		{
+			"id": "engine",
+			"title": "Engine"
+		},
+		{
+			"id": "interface",
+			"title": "Interface"
+		},
+		{
+			"id": "gridview",
+			"title": "Gridview"
+		},
+		{
+			"id": "mail",
+			"title": "Mail"
+		},
+		{
+			"id": "book",
+			"title": "Mail"
+		},
+		{
+			"id": "TransformFix",
+			"title": "Interface"
+		},
+		{
+			"id": "newplayerexp",
+			"title": "Interface"
+		},
+		{
+			"id": "mascot",
+			"title": "Interface"
+		},
+		{
+			"id": "config",
+			"title": "Interface"
+		},
+		{
+			"id": "rewritten",
+			"title": "Interface"
+		},
+		{
+			"id": "client_manager",
+			"title": "Interface"
+		},
+		{
+			"id": "stampbook",
+			"title": "StampBook"
+		},
+		{
+			"id": "stamps",
+			"title": "Stamps"
+		}
+	],
+	
+	"create": [
+		{
+			"id": "create",
+			"title": "Create Penguin"
+		}
+	],
+	
+	"merch": [
+		{
+			"id": "app",
+			"folder": "merch/",
+			"title": "Communication"
+		}
+	]
+	
+}

@@ -1,0 +1,49 @@
+agentcom,378
+dance,5
+lounge,6
+town,581
+coffee,1
+book,1
+forts,587
+rink,592
+beach,582
+light,588
+beacon,583
+dock,611
+village,591
+lodge,589
+attic,589
+agentlobbymulti,0
+mtn,590
+dojoext,404
+dojo,403
+shack,580
+eco,285
+mine,0
+cavemine,532
+cave,0
+plaza,383
+stage,40
+pizza,20
+forest,586
+cove,216
+berg,584
+ship,380
+shiphold,491
+shipquarters,491
+
+
+
+== Music ==
+
+11 = Paradise
+226 = 2007 Christmas beat
+227 = Gentle christmas xylophone
+254 = 2008 Christmas bass
+276 = Rockstopper
+536 = Cool in the cold instrumental
+548 = Piano Christmas (pizza parlor)
+798 = Merry Walrus instrumental
+800 = Christmas jingle
+
+
