@@ -6,15 +6,17 @@ A Club Penguin™ Media Server provides the required assets for the Adobe/Shockw
 
 This media server is compatible with [Aurora](https://github.com/anthonywww/aurora), a Club Penguin server emulator.
 
+
 ### Copyright Notice
 
-These files are owned by Disney Interactive Studios (originally by RocketSnail Games Ltd. [now Hyper-Hippo Entertainment Ltd.]).
+These files are owned by Disney Interactive Studios (originally, New Horizon Interactive in Kelowna, BC, Canada).
 
 The files are provided "AS-IS" under [17 U.S.C. § 107 "Fair Use"](https://www.gpo.gov/fdsys/pkg/USCODE-2010-title17/pdf/USCODE-2010-title17-chap1-sec107.pdf) and in no way hold Disney, Disney Interactive Studios or its predecesors liable for how this content is used.
 
 In no way do these files or its modifications represent Disney's stance or views.
 
 The works under [public](./public/) are provided under implication of [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
+
 
 ### Sources
 
@@ -25,6 +27,37 @@ These are sources that helped in the supplementation of this archive:
 - [Club Penguin Continued](https://cpcontinued.com/)
 - [CPRewritten](https://cprewritten.net/)
 - Club Penguin Archives (wiki swf files)
+
+#### Contribution
+
+If you have any **original** media files that you would like to contribute/donate, please open a PR with the following template below.
+
+**Note:** If your files have been modified or were not part of the original Club Penguin game itself, do not submit your files. If you attempt to submit modified, misleading or malicious files you will be barred from submitting any content going forward.
+
+Please also note; if your submitted files do not contain or match our internal record of original SHA-256 hashes or your files do not match the hashes you provided we may discard your submission.
+
+```md
+# Media Contribution
+
+**Type:** `client/interface/rooms/music/locale/games`
+**Path:** `path of where the file(s) normally resided`
+**Year:** `year file(s) were created/present`
+**Event:** `event associated with this file, if any, or just leave empty`
+
+### SHA-256 hashes:
+
+- file1.swf `sha256 hash of file1.swf goes here`
+- file2.swf `sha256 hash of file2.swf goes here`
+- file3.swf `sha256 hash of file3.swf goes here`
+
+
+### Description:
+
+Write a short description as to what the file(s) are/contain.
+
+```
+
+
 
 ### Modifications
 
@@ -62,5 +95,17 @@ I started reverse engineering the "XT" or Smart Fox Server protocol independentl
 Please do not use these files to make yet another CPPS micro-transaction clone or used in a way that may violate local, state, or national laws.
 
 Please do not use these files unethically.
+
+
+### Special Thanks
+
+A huge thanks to the entire Club Penguin team that built the island that we all know and love. Here are just a few names that should be recognized.
+
+- [Lance Priebe](https://twitter.com/lancepriebe) (rsnail) - Founder. Current CEO of Hyper Hippo Games (former Rocket Snail Games Ltd.)
+- [Lane Merrifield](https://twitter.com/lanemerrifield) (Billybob) - Co-founder
+- [Dave Krysko](https://twitter.com/DaveKrysko) (Skidder) - Co-founder
+- [Chris Hendricks](https://twitter.com/_screenhog) (Screenhog) - Lead designer (audio, art, animation) until October 29, 2010. Current YouTube content creator showing off [BTS content of Club Penguin](https://www.youtube.com/@ChrisHendricks)
+
+If you were a former employee of Disney / New Horizon Interactive who worked on Club Penguin and want to be added please [contact me](mailto:me@anthonyw.me) with evidence of your employment, legal name, job position, and a description of the work you contributed.
 
 **Waddle on!**
