@@ -106,6 +106,6 @@ A huge thanks to the entire Club Penguin team that built the island that we all 
 - [Dave Krysko](https://twitter.com/DaveKrysko) (Skidder) - Co-founder
 - [Chris Hendricks](https://twitter.com/_screenhog) (Screenhog) - Lead designer (audio, art, animation) until October 29, 2010. Current YouTube content creator showing off [BTS content of Club Penguin](https://www.youtube.com/@ChrisHendricks)
 
-If you were a former employee of Disney / New Horizon Interactive who worked on Club Penguin and want to be added please [contact me](mailto:me@anthonyw.me) with evidence of your employment, legal name, job position, and a description of the work you contributed.
+If you were a former employee of Disney / New Horizon Interactive who worked on Club Penguin and want to be added please [contact me](mailto:me@anthonyw.me?subject=Club+Penguin+Media) with evidence of your employment, legal name, job position, and a description of the work you contributed.
 
 **Waddle on!**
